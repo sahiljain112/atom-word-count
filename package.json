@@ -1,0 +1,18 @@
+{
+  "name": "sahil-word-count",
+  "main": "./lib/sahil-word-count",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "sahil-word-count:toggle"
+  },
+  "repository": "https://github.com/sahiljain112/atom-word-count.git",
+  "license": "ISC",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

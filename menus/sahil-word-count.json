@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Sahil's message",
+        "command": "sahil-word-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sahil-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "sahil-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
